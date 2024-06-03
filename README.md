@@ -7,18 +7,18 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 - [While](While_Sumadenumeros.c)
 - [Do While](Do_While_Sumadenumeros.c)
 2. **Inverso de un número**
--	[for]()
--	[while]()
+-	[for](For_Inverso.c)
+-	[while](While_Inverso.c)
 -	[do while](DoWhile_Inverso.c)
 
 3.** Potencia mediante números sucesivos**
--	[for]()
--	[while]()
+-	[for](For_Potenciacion.c)
+-	[while](While_Potenciacion.c)
 -	[do while](DoWhile_Potenciacion.c)
 
 4.** Radicación mediante restas sucesivas**
--	[for]()
--	[while]()
+-	[for](For_Radicacion.c)
+-	[while](While_Radicacion.c)
 -	[do while](DoWhile_Radicacion.c)
 5. **Serie de Fibonacci**
 -	[for]()
