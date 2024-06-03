@@ -9,17 +9,17 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 2. **Inverso de un número**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Inverso.c)
 
 3.** Potencia mediante números sucesivos**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Potenciacion.c)
 
 4.** Radicación mediante restas sucesivas**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Radicacion.c)
 5. **Serie de Fibonacci**
 -	[for]()
 -	[while]()
