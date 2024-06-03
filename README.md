@@ -23,11 +23,11 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 5. **Serie de Fibonacci**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Fibonacci.c)
 6. **Factorial de un número**
 -  [for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Factorial.c)
 7. **Suma de una serie aritmética**
 -	[for]()
 -	[while]()
@@ -35,23 +35,23 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 8. **Producto de una serie geométrica**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_ProductoSerie.c)
 9. **Número de dígitos de un número**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Digitos.c)
 10. **Verificar si un número es primo**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_EsPrimo.c)
 11. **Encontrar el MCD (Máximo Común Divisor)**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_MCD.c)
 12. **Sumar los números impares hasta n**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_NImpares.c)
 13. **Sumar los números pares hasta n**
 -	[for]()
 -	[while]()
@@ -67,21 +67,21 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 16. **Suma de una serie de números fraccionarios**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_NFracciones.c)
 17. **Producto de una serie de números fraccionarios**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_PNFraccionarios.c)
 18. **Contar los números primos hasta n**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Nprimos.c)
 19. **Calcular el n-ésimo número triangular**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_Enesimo.c)
 20. **Calcular la suma de los factoriales de los primeros n números**
 
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_ SFactoriales.c)
