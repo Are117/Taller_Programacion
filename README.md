@@ -11,12 +11,12 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 -	[while](While_Inverso.c)
 -	[do while](DoWhile_Inverso.c)
 
-3.** Potencia mediante números sucesivos**
+3.**Potencia mediante números sucesivos**
 -	[for](For_Potenciacion.c)
 -	[while](While_Potenciacion.c)
 -	[do while](DoWhile_Potenciacion.c)
 
-4.** Radicación mediante restas sucesivas**
+4.**Radicación mediante restas sucesivas**
 -	[for](For_Radicacion.c)
 -	[while](While_Radicacion.c)
 -	[do while](DoWhile_Radicacion.c)
