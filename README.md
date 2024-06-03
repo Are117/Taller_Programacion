@@ -84,4 +84,4 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 
 -	[for]()
 -	[while]()
--	[do while](DoWhile_ SFactoriales.c)
+-	[Do While](DoWhile_ SFactoriales.c)
