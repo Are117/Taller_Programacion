@@ -78,7 +78,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 -	[do while](DoWhile_Nprimos.c)
 19. **Calcular el n-ésimo número triangular**
 -	[for]()
--	[while]()
+-	[while](DoWhile_Enesimo.c)
 -	[do while](DoWhile_Enesimo.c)
 20. **Calcular la suma de los factoriales de los primeros n números**
 
