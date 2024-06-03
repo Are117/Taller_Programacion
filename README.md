@@ -31,7 +31,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 7. **Suma de una serie aritmética**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_SumaSerie.c)
 8. **Producto de una serie geométrica**
 -	[for]()
 -	[while]()
@@ -55,15 +55,15 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 13. **Sumar los números pares hasta n**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_SNPares.c)
 14. **Suma de los cuadrados de los primeros n números**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_SCuadrados.c)
 15. **Suma de los cubos de los primeros n números**
 -	[for]()
 -	[while]()
--	[do while]()
+-	[do while](DoWhile_SCubos.c)
 16. **Suma de una serie de números fraccionarios**
 -	[for]()
 -	[while]()
